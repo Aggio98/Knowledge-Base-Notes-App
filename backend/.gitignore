@@ -21,3 +21,4 @@ build/
 # OS / editor files
 .DS_Store
 .vscode
+/generated/prisma
