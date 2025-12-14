@@ -1,1 +1,2 @@
 //Server startup
+import "./app";
